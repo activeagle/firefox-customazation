@@ -1,6 +1,6 @@
 const EntCategory = () => {
     return (
-        <div className="bookmark">
+        // <div className="bookmark">
             <div className="category">
                 <div className="icon"><img src="./icons/entertainment.svg" /></div>
                 <div className="bookmarks ent">
@@ -11,7 +11,7 @@ const EntCategory = () => {
                     <li><a className="bm" href="https://www.reddit.com/">Reddit</a></li>
                 </div>
             </div>
-        </div>
+        // </div>
     )
 }
 

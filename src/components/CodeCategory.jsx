@@ -1,6 +1,6 @@
 const CodeCategory = () => {
     return (
-		<div className="bookmark">
+		// <div className="bookmark">
 		    <div className="category">
                 <div className="icon"><img src="./icons/code.svg" /></div>
                 <div className="bookmarks cod">
@@ -11,7 +11,7 @@ const CodeCategory = () => {
                     <li><a className="bm" href="https://codeforces.com/">CodeForces</a></li>
                 </div>
 			</div>
-		</div>
+		// </div>
     )
 }
 
