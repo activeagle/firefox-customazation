@@ -5,7 +5,6 @@ import MusicCategory from './components/MusicCategory';
 import ArtCategory from './components/ArtCategory';
 import SearchBar from './components/SearchBar';
 import './App.css';
-import logo from './logo.svg'
 
 function App() {
   return (
