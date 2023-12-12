@@ -2,7 +2,7 @@ const DocCategory = () => {
     return (
         <div class="bookmark">
             <div class="category">
-                <div class="icon"><img src="icons/" /></div>
+                <div class="icon"><img src="./icons/docs.svg" /></div>
                 <div class="bookmarks doc">
                     <li><a class="bm" href="https://en.cppreference.com/w/">C++</a></li>
                     <li><a class="bm" href="https://docs.python.org/3.7/library/index.html">Python</a></li>

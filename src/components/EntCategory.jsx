@@ -2,7 +2,7 @@ const EntCategory = () => {
     return (
         <div class="bookmark">
             <div class="category">
-                <div class="icon"><img src="icons/entertainment.svg" /></div>
+                <div class="icon"><img src="./icons/entertainment.svg" /></div>
                 <div class="bookmarks ent">
                     <li><a class="bm" href="https://www.youtube.com/">Youtube</a></li>
                     <li><a class="bm" href="https://twitter.com/home">Twitter</a></li>
