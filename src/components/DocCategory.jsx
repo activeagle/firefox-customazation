@@ -2,7 +2,7 @@ const DocCategory = () => {
     return (
         // <div className="bookmark">
         <div class="category">
-            <div class="icon"><img src="icons/docs.svg" /></div>
+            <div class="icon"><img src="icons/docks.svg" /></div>
             <div class="bookmarks doc">
                 <li><a class="bm" href="https://twitter.com/home">Twitter</a></li>
                 <li><a class="bm" href="http://coingecko.com/">Gecko</a></li>
