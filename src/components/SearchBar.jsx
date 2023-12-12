@@ -11,13 +11,13 @@ const SearchBar = () => {
     <div className="container">
       <div className="head">
         <div className="logo">
-          <img src="icons/fox.svg" alt="Fox Logo" />
+          <img src="icons/fox.svg" alt="Fox Logo"/>
         </div>
         <div className="search_box">
           <img
             className="engine"
             id="engineLogo"
-            src={isGoogleSearch ? 'icons/google.svg' : 'icons/duckduckgo.svg'}
+            src={isGoogleSearch ? 'icons/google.svg' : 'icons/duck.svg'}
             onClick={toggleEngine}
             style={{ cursor: 'pointer' }}
             alt={isGoogleSearch ? 'Google Logo' : 'DuckDuckGo Logo'}
