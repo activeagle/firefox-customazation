@@ -10,9 +10,9 @@ const SearchBar = () => {
   return (
     <div className="container">
       <div className="head">
-        <div className="logo">
+        {/* <div className="logo">
           <img src="icons/fox.svg" alt="Fox Logo"/>
-        </div>
+        </div> */}
         <div className="search_box">
           <img
             className="engine"
