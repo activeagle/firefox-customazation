@@ -11,6 +11,7 @@ const DocCategory = () => {
                 <li><a class="bm" href="https://www.coindesk.com/">Coin Desk</a></li>
                 <li><a class="bm" href="https://theblock.co/">The Block</a></li>
                 <li><a class="bm" href="https://www.tradingview.com/markets/cryptocurrencies/prices-all//">Trading View</a></li>
+                <li><a class="bm" href="https://coinmarketcap.com/">Coin Market Cap</a></li>
                 <li><a class="bm" href="https://news.google.com/home?hl=en-ID&gl=ID&ceid=ID%3Aen">ID News</a></li>
                 <li><a class="bm" href="https://www.nytimes.com/">Binance</a></li>
                 <li><a class="bm" href="http://binance.com/">Binance</a></li>

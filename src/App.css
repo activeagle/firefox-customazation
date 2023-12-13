@@ -8,12 +8,12 @@ html{
   width: 100%;
   margin: 0;
   padding: 0;
-  background:#263238;
+  background:#070706;
     }
 
 body {
   background: #070706;
-  color: #ff0000;
+  color: #f3f3f0;
   height: 100%;
   width: 100%;
   margin: 0;
@@ -151,21 +151,21 @@ a:hover {
 }
 
 div.bookmarks.cod a:hover {
-  color: #00CF35;
+  color: #5cc639;
 }
 
 div.bookmarks.doc a:hover {
-  color: #FF8A00;
+  color: #e1b51e;
 }
 
 div.bookmarks.ent a:hover {
-  color: #FF492F;
+  color: #3056cf;
 }
 
 div.bookmarks.mus a:hover {
-  color: #00B8FF;
+  color: #d92656;
 }
 
 div.bookmarks.art a:hover {
-  color: #FF62CE;
+  color: #8e717f;
 }
